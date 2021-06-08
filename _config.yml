@@ -20,12 +20,12 @@ source-code: https://github.com/SensusOlfactus/medievalsmells
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Sense of Smell in Medieval Art
+title: Visual Odors
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Visual Odors
+tagline: The Sense of Smell in Medieval Art, c. 1200-c.1500
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Odors appear in medieval art more often than we realize."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: SensusOlfactus
 
@@ -33,7 +33,7 @@ author: SensusOlfactus
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo_metadata 
+metadata: medieval-smells-metadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
