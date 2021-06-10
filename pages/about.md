@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="smell007" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Odors and the Sense of Smell in Medieval Europe;The Collection;Avenues for Future Research" %}
 
 ## Odors and the Sense of Smell in Medieval Europe
 
@@ -59,8 +59,6 @@ However, there are a few common olfactory elements to look for in medieval art:
 Certain persons, places, or things might be considered odorous at all times, such as saints, flowers, fires or anything burning, the heavenly Jerusalem, heaven, and hell. 
 There is also a lot of work to be done on scientific depictions of odor and olfaction. 
 
-
 For more information about the intellectual history of the sense of smell in central and late medieval Europe, see my book, [The Sense of Smell in the Middle Ages: A Source of Certainty (Routledge, 2020)](https://www.routledge.com/The-Sense-of-Smell-in-the-Middle-Ages-A-Source-of-Certainty/Robinson/p/book/9780367000684).
-
 
 {% include feature/image.html objectid="smell003" %}
