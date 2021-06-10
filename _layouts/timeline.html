@@ -27,7 +27,7 @@ custom-foot: js/timeline-js.html
             <h3>{{ year }}</h3>
         </th>
         <td>
-            <div class="row-md-3">
+            <div class="row">
                 {%- assign inYear = items | where_exp: 'item', 'item.century contains year' -%}
                 {% for item in inYear %}
                 <div class="col-lg-6 col-md-4">
