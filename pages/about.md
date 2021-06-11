@@ -59,6 +59,7 @@ However, there are a few common olfactory elements to look for in medieval art:
 Certain persons, places, or things might be considered odorous at all times, such as saints, flowers, fires or anything burning, the heavenly Jerusalem, heaven, and hell. 
 There is also a lot of work to be done on scientific depictions of odor and olfaction. 
 
-For more information about the intellectual history of the sense of smell in central and late medieval Europe, see my book, [The Sense of Smell in the Middle Ages: A Source of Certainty (Routledge, 2020)](https://www.routledge.com/The-Sense-of-Smell-in-the-Middle-Ages-A-Source-of-Certainty/Robinson/p/book/9780367000684).
-
 {% include feature/image.html objectid="smell003" %}
+
+{% include feature/card.html text="Katelynn Robinson is the author of [The Sense of Smell in the Middle Ages: A Source of Certainty (Routledge, 2020)](https://www.routledge.com/The-Sense-of-Smell-in-the-Middle-Ages-A-Source-of-Certainty/Robinson/p/book/9780367000684), which details the intellectual history of the sense of smell in central and late medieval Europe. She received her doctorate at the University of Missouri, Columbia in 2017 and continues to research the olfactory sense in medieval Europe. You can find her on Twitter [@SensusOlfactus](https://twitter.com/sensusolfactus)" header="About the Author" %}
+

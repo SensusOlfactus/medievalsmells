@@ -22,12 +22,12 @@ source-code: https://github.com/SensusOlfactus/medievalsmells
 # title of site appears in banner
 title: Visual Odors
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The Sense of Smell in Medieval Art, c. 1200-c.1500
+tagline: The Sense of Smell in Medieval European Art, c. 1200-c.1500
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Odors appear in medieval art more often than we realize."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: SensusOlfactus
+author: Katelynn Robinson
 
 ##########
 # COLLECTION SETTINGS
